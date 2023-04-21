@@ -1,0 +1,15 @@
+1d8c50 - Emerald Tiles
+2a502a - Dark Emerald Tiles
+4b7e96 - Aegan Sea Glass
+8d8ac0 - Mauve Sea Glass
+538d55 - Raw Ashakite, Ashakite Tiles
+545d90 - Gloomy Lapis Flagstone
+577b7b - Swirly Prismarine
+772a7a - Dark Purpur
+5773bf - Sorrowful Lapis Flagstone
+39226c - Deep Purpur
+a5639c - Carved Purpur
+ab3957 - Cerise Sea Glass
+bba3ca - Bleached Purpur
+d32a6a - Carmine Sea Glass
+e08773 - Coralstone, Coralstone Powder, Coralstone Carved, Coralstone Brick
