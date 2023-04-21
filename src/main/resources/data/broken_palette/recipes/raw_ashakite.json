@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:end_stone"
+    },
+    "E": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  "result": {
+    "item": "broken_palette:raw_ashakite",
+    "count": 8
+  }
+}

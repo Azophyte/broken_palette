@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "#E#",
+    "E#E",
+    "#E#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blackstone"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "broken_palette:dark_emerald_tiles",
+    "count": 1
+  }
+}

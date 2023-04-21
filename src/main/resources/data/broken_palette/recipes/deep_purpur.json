@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "EEE",
+    "E#E",
+    "EEE"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dragon_breath"
+    },
+    "E": {
+      "item": "minecraft:purpur_block"
+    }
+  },
+  "result": {
+    "item": "broken_palette:deep_purpur",
+    "count": 8
+  }
+}

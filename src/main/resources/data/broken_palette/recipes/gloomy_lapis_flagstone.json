@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "#E#",
+    "E#E",
+    "#E#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "E": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "broken_palette:gloomy_lapis_flagstone",
+    "count": 5
+  }
+}

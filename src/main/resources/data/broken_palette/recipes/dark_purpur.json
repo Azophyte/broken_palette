@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "EEE",
+    "E#E",
+    "EEE"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blackstone"
+    },
+    "E": {
+      "item": "minecraft:purpur_block"
+    }
+  },
+  "result": {
+    "item": "broken_palette:dark_purpur",
+    "count": 9
+  }
+}

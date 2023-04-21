@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "broken_palette:aegean_sea_glass",
+    "broken_palette:ashakite_tiles",
+    "broken_palette:bleached_purpur",
+    "broken_palette:carmine_sea_glass",
+    "broken_palette:carved_purpur",
+    "broken_palette:cerise_sea_glass",
+    "broken_palette:coralstone",
+    "broken_palette:coralstone_brick",
+    "broken_palette:coralstone_carved",
+    "broken_palette:dark_emerald_tiles",
+    "broken_palette:dark_purpur",
+    "broken_palette:deep_purpur",
+    "broken_palette:emerald_tiles",
+    "broken_palette:gloomy_lapis_flagstone",
+    "broken_palette:mauve_sea_glass",
+    "broken_palette:raw_ashakite",
+    "broken_palette:sorrowful_lapis_flagstone",
+    "broken_palette:swirly_prismarine"
+  ]
+}

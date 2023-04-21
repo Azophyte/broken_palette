@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_required_item": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "broken_palette:coral"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "broken_palette:coralstone"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_required_item",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "broken_palette:coralstone",
+      "broken_palette:coralstone_bricks",
+      "broken_palette:coralstone_carved",
+      "broken_palette:coralstone_grit"
+    ]
+  }
+}

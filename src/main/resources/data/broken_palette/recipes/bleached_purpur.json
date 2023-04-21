@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "ingredient": {
+    "item": "minecraft:purpur_block"
+  },
+  "result": "broken_palette:bleached_purpur",
+  "experience": 0.2,
+  "cookingtime": 200
+}

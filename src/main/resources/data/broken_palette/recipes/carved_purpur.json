@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "_",
+    "_"
+  ],
+  "key": {
+    "_": {
+      "item": "minecraft:purpur_slab"
+    }
+  },
+  "result": {
+    "item": "broken_palette:carved_purpur",
+    "count": 1
+  }
+}

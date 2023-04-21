@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "#E#",
+    "E#E",
+    "#E#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "broken_palette:emerald_tiles",
+    "count": 1
+  }
+}

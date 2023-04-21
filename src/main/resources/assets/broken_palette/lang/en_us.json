@@ -1,0 +1,26 @@
+{
+  "item.broken_palette.drifted_coffer": "Drifted Coffer",
+  "item.broken_palette.drifted_coffer.tooltip": "Use or break me to release contents",
+
+  "block.broken_palette.aegean_sea_glass": "Aegean Sea Glass",
+  "block.broken_palette.ashakite_tiles": "Ashakite Tiles",
+  "block.broken_palette.bleached_purpur": "Bleached Purpur",
+  "block.broken_palette.carmine_sea_glass": "Carmine Sea Glass",
+  "block.broken_palette.carved_purpur": "Carved Purpur",
+  "block.broken_palette.cerise_sea_glass": "Cerise Sea Glass",
+  "block.broken_palette.coralstone": "Coralstone",
+  "block.broken_palette.coralstone_brick": "Coralstone Bricks",
+  "block.broken_palette.coralstone_carved": "Carved Coralstone",
+  "block.broken_palette.coralstone_grit": "Coralstone Grit",
+  "block.broken_palette.dark_emerald_tiles": "Dark Emerald Tiles",
+  "block.broken_palette.dark_purpur": "Dark Purpur",
+  "block.broken_palette.deep_purpur": "Deep Purpur",
+  "block.broken_palette.emerald_tiles": "Emerald Tiles",
+  "block.broken_palette.gloomy_lapis_flagstone": "Gloomy Lapis Flagstone",
+  "block.broken_palette.mauve_sea_glass": "Mauve Sea Glass",
+  "block.broken_palette.raw_ashakite": "Raw Ashakite",
+  "block.broken_palette.sorrowful_lapis_flagstone": "Sorrowful Lapis Flagstone",
+  "block.broken_palette.swirly_prismarine": "Swirly Prismarine",
+
+  "itemgroup.broken_palette": "Broken Palette"
+}

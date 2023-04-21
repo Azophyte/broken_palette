@@ -1,5 +1,9 @@
 package azo.broken_palette;
 
+import azo.broken_palette.block.ModBlocks;
+import azo.broken_palette.item.ModItemGroup;
+import azo.broken_palette.item.ModItems;
+import azo.broken_palette.util.ModLootTableModifiers;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,10 +15,10 @@ public class BrokenPalette implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		// This code runs as soon as Minecraft is in a mod-load-ready state.
-		// However, some things (like resources) may still be uninitialized.
-		// Proceed with mild caution.
-
 		LOGGER.info("Initialising Broken_Palette, Azo says hi!");
+		ModItemGroup.registerItemGroups();
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
+		ModLootTableModifiers.modifyLootTables();
 	}
 }

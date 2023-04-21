@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "#R",
+    "R#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sand"
+    },
+    "R": {
+      "tag": "broken_palette:coral"
+    }
+  },
+  "result": {
+    "item": "broken_palette:coralstone_grit",
+    "count": 4
+  }
+}

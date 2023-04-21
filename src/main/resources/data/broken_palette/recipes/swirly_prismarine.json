@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "ingredient": {
+    "item": "minecraft:prismarine"
+  },
+  "result": "broken_palette:swirly_prismarine",
+  "experience": 0.2,
+  "cookingtime": 200
+}

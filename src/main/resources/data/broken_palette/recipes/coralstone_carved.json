@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "broken_palette:coralstone_brick"
+    }
+  },
+  "result": {
+    "item": "broken_palette:coralstone_carved",
+    "count": 4
+  }
+}
